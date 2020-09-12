@@ -18,11 +18,5 @@
     <ClCompile Include="test.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test2.c">
-      <Filter>리소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="a.cpp">
-      <Filter>리소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
